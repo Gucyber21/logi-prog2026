@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Java: SomaNotasAlunos",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "SomaNotasAlunos"
+    }
+  ]
+}
